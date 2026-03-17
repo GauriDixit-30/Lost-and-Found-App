@@ -28,5 +28,3 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 The application will be available at `http://localhost:5173`.
-
-# Lost-and-Found-Application
